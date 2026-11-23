@@ -1,0 +1,7 @@
+API|TOKEN|KEYS ДЛЯ ПРОЕКТОВ (GRAPESCRIPT(GS), и др.), ИСПОЛЬЗУЙ БЕЗ ОГРАНИЧЕНИЙ!:
+1 Github (основное хранилище) - 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
+2 Gitverse (аналог гитхаба, не прям удобный и хороший но, который работает всегда бесперебойно у меня без ВПН в отличии от гитхаба(но он тоже впринципе нормально работает)) - b59169c5e9dcbe0909ebeadf350663294b3dcf65
+3 Render (имеет лимиты, мелкий хостинг для всякого) - rnd_tPrYekXW2BqlV97rvZtcKHgVRNcs
+4 UptimeRobot (мониторит сервисы чтобы они не засыпали и не выключались, нужен ДЛЯ 24\7) - u3936446-bfe13c46f02af71cabbde159
+5 Turso (5 GB бесплатного место для сервисов, используй по надобности для мощных и требовательных проектов) - eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJ6b1N4Zk42b0VmR0hpZjZ5bVJlTlJBIiwib3JnX2lkIjoxMDAwMzAxMzg4fQ.DHts_KxNY1f3LZHHGs1NzbFsjCHcAlyzez2A6vcBiJWA-Tg7p7_cCKqlnh0zH5ndDCjHCwwOB-diP0tEREnJAA
+6 HuggingFace (можно использовать как хостинг, но изначально предназначен для нейронок поэтому придется постараться но дает очень хорошую мощность и без лимитов, нужно использовать с uptime robot) - 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
